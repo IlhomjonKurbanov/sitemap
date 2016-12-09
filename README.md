@@ -2,7 +2,7 @@
 Создание карты сайта в формате XML
 <h2>Настройка</h2>
 в console\config\main.php добавляем
-<code>
+<?php
     'components' => [
         'urlManager' => [
             'class' => 'yii\web\UrlManager',
@@ -13,4 +13,4 @@
             // ...
         ],
     ],
-</code>
+?>
