@@ -1,13 +1,17 @@
 {
     "name": "borysenko/sitemap",
     "description": "SiteMap Расширение для Yii 2",
+    "keywords": [
+        "sitemap", "Yii2 sitemap", "yii sitemap", "sitemap yii"
+    ],
     "homepage": "https://github.com/borysenko/sitemap",
     "type": "yii2-extension",
     "minimum-stability":"stable",
     "authors": [
         {
             "name": "Pavel Borysenko",
-            "email": "pavel.borysenko@gmail.com"
+            "email": "pavel.borysenko@gmail.com",
+            "homepage": "http://webplus.com.ua/"
         }
     ],
     "autoload": {
