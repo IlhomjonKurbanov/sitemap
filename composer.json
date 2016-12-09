@@ -1,0 +1,22 @@
+{
+    "name": "borysenko/sitemap",
+    "description": "SiteMap Расширение для Yii 2",
+    "type": "no",
+    "require": {
+        "no": "1.0.0"
+    },
+    "license": "no",
+    "authors": [
+        {
+            "name": "Pavel Borysenko",
+            "email": "pavel.borysenko@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/borysenko/sitemap.git"
+        }
+    ],
+    "minimum-stability": "stable"
+}
