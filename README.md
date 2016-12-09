@@ -1,6 +1,21 @@
 <h1>SiteMap Расширение для Yii 2</h1>
 Создание карты сайта в формате XML.
 Карты разбиваются, в каждой sitemap может быть 49000 линков, если у вас их больше, то создатутся дополнительные sitemap-ы.
+
+<h2>Установка</h2>
+
+<pre>
+<code>
+php composer.phar require  borysenko/sitemap "dev-master"
+</code>
+</pre>
+или
+<pre>
+<code>
+php -d "disable_functions=" composer.phar require  borysenko/sitemap "dev-master"
+</code>
+</pre>
+
 <h2>Настройка</h2>
 в console\config\main.php добавляем
 <pre>
