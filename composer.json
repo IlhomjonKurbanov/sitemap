@@ -5,6 +5,9 @@
     "require": {
         "borysenko/sitemap": "1.0.0"
     },
+    "autoload": {
+        "psr-4": {"borysenko\\sitemap\\": ""}
+    },
     "license": "no",
     "authors": [
         {
