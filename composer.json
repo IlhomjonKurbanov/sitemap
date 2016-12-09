@@ -11,7 +11,9 @@
         }
     ],
     "autoload": {
-        "psr-4": {"borysenko\\sitemap\\": ""}
+        "psr-4": {
+            "borysenko\\": ""
+        }
     },
     "require": {
         "borysenko/sitemap": "1.0.0"
