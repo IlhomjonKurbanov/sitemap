@@ -16,7 +16,7 @@
         }
     },
     "require": {
-        "borysenko/sitemap": "1.0.0"
+        "borysenko/sitemap": "dev-master"
     },
     "repositories": [
         {
