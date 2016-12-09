@@ -3,7 +3,7 @@
     "description": "SiteMap Расширение для Yii 2",
     "type": "no",
     "require": {
-        "no": "1.0.0"
+        "borysenko/sitemap": "borysenko/sitemap"
     },
     "license": "no",
     "authors": [
