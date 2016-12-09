@@ -22,7 +22,7 @@
 Создаем в console\controllers\  контроллер SitemapController.php и в него вставляем код:
 <pre>
 <code>
-<?php
+
 namespace console\controllers;
 
 use Yii;
